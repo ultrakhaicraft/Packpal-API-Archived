@@ -1,0 +1,6 @@
+@Packpal_HostAddress = http://localhost:5111
+
+GET {{Packpal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

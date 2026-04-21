@@ -1,0 +1,46 @@
+# IDE/editor configs
+.vscode/
+.vs/
+.idea/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs & temp files
+*.log
+logs/
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+
+# Test & coverage
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# Databases
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Generated files
+*.g.*
+*.generated.cs
+
+# OS files
+.DS_Store
+Thumbs.db

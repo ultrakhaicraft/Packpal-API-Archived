@@ -1,0 +1,75 @@
+# Ignore build output and intermediate files
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# Visual Studio specific
+.vscode/
+.vs/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+packages/
+
+# Configuration files
+appsettings.*.json
+appsettings.Development.json
+
+# Rider specific
+.idea/
+*.iml
+
+# Resharper specific
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+
+# Generated files
+*.g.*
+*.generated.cs
+
+# Coverage and test results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+
+# Ignore database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Ignore secrets
+appsettings.json
+packpal-2628f-firebase-adminsdk-fbsvc-2dd333e7fb.json

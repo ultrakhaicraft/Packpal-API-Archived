@@ -14,6 +14,6 @@ Current Project Status: Archived. This git repository will be serve as an archiv
 
 ## Credit
 -This project is a teamwork effort of three members, these will be included as git username
-ultrakhaicraft: PayOS Payment Gate, User Management System, Image Upload
-mdponz04: Order Management System, 
-phathuy2805: Storage Management System
+-ultrakhaicraft: PayOS Payment Gate, User Management System, Image Upload
+-mdponz04: Order Management System, 
+-phathuy2805: Storage Management System

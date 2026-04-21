@@ -7,8 +7,11 @@ Current Project Status: Archived. This git repository will be serve as an archiv
 
 ## Technology 
 -Language: C# (.NET API + SignalR)
+
 -Third party: PayOS, Cloudinary, Firebase
+
 -Deployment: Docker
+
 -Database: EFCore, MySQL
 
 
